@@ -1,6 +1,8 @@
-# 🎮 CodeAlpha Hangman Game
+# 🎮 Hangman Game
 
 A simple text-based Hangman game developed using Python as part of the CodeAlpha Python Programming Internship.
+
+[![Follow me on GitHub](https://img.shields.io/github/followers/Seshan24?label=Follow%20me%20on%20GitHub&style=social)](https://github.com/Seshan24)
 
 ## Features
 
