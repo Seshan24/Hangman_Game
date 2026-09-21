@@ -29,3 +29,7 @@ A simple text-based Hangman game developed using Python as part of the CodeAlpha
 2. Clone this repository.
 3. Open the project folder.
 4. Run:
+
+---
+
+⭐ If you find this project useful, consider giving the repository a star!
